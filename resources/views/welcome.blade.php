@@ -3,8 +3,6 @@
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
-    525600
-    ZTXFMU
 <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -50,7 +48,7 @@
         <header id="header" class="header-section">
             <div class="container">
                 <nav class="navbar">
-                    <a href="#" class="navbar-brand"><img src="img/logo.png" alt="Axuta"></a>
+                    <a href="#" class="navbar-brand"><img src="" alt="Watu"></a>
                     <div class="d-flex menu-wrap">
                        <ul class="nav">
                             <li ><a data-scroll class="nav-link active" href="#home">Home <span class="sr-only">(current)</span></a></li>
